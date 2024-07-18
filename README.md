@@ -8,4 +8,4 @@ It does NOT follow clean code principles, good naming, cyclomatic complexity
 Usage
 Download or clone and open index.html in a browser.
 
-( The Game can be found online here: http://www.kongregate.com/games/DanielMocan/space-bugs?acomplete=space+bugs )
+( The Game can be found online here: [http://www.kongregate.com/games/DanielMocan/space-bugs?acomplete=space+bugs](https://space-bugs.netlify.app/) )
